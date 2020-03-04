@@ -17,7 +17,11 @@
       <pubDate>Wed, 04 Mar 2020 16:05:40 +0800</pubDate>
       
       <guid>http://dannysunyu.github.io/posts/how-i-setup-my-personal-blogsite/</guid>
-      <description>這個博客的博文是用Markdown語法來撰寫的。</description>
+      <description>這個博客的博文是用Markdown語法來撰寫的。
+使用的是叫Hugo的，用Go語言開發的流行博客工具。
+這是一個用Hugo部署的博客的真實案例。
+這是教授使用Hugo搭建個人博客主頁的授課視頻。
+用的是Octopress移植到Hugo的主題。</description>
     </item>
     
     <item>
