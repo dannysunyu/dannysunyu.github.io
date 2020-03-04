@@ -6,10 +6,22 @@
     <description>Recent content on 孫昱的個人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Mar 2020 16:05:40 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2020 18:42:03 +0800</lastBuildDate>
     
 	<atom:link href="http://dannysunyu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Companies I Keep Track Of</title>
+      <link>http://dannysunyu.github.io/posts/companies-i-keep-track-of/</link>
+      <pubDate>Wed, 04 Mar 2020 18:42:03 +0800</pubDate>
+      
+      <guid>http://dannysunyu.github.io/posts/companies-i-keep-track-of/</guid>
+      <description>春節前有家叫Binance的公司，有位工程师微信联系上了我，简单向我文字描述了一下公司，邀请我跳槽。
+今天登入Github时看见Binance在上面刊登了了招聘广告，点了进去看到了这样的职位描述。
+说实话，最吸引我的莫过于使用Rust。
+点开了公司的主页。</description>
+    </item>
     
     <item>
       <title>我是如何搭建個人博客網站的</title>
