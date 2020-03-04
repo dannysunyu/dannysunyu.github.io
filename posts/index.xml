@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on 孫昱的個人博客</title>
+    <link>http://dannysunyu.github.io/posts/</link>
+    <description>Recent content in Posts on 孫昱的個人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Mar 2020 16:05:40 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dannysunyu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How I Setup My Personal Blogsite</title>
-      <link>http://example.org/posts/how-i-setup-my-personal-blogsite/</link>
+      <link>http://dannysunyu.github.io/posts/how-i-setup-my-personal-blogsite/</link>
       <pubDate>Wed, 04 Mar 2020 16:05:40 +0800</pubDate>
       
-      <guid>http://example.org/posts/how-i-setup-my-personal-blogsite/</guid>
+      <guid>http://dannysunyu.github.io/posts/how-i-setup-my-personal-blogsite/</guid>
       <description>這個博客的博文是用Markdown語法來撰寫的。</description>
     </item>
     
     <item>
       <title>2020年我的個人目標</title>
-      <link>http://example.org/posts/my-personal-goals-in-2020/</link>
+      <link>http://dannysunyu.github.io/posts/my-personal-goals-in-2020/</link>
       <pubDate>Wed, 04 Mar 2020 14:47:03 +0800</pubDate>
       
-      <guid>http://example.org/posts/my-personal-goals-in-2020/</guid>
+      <guid>http://dannysunyu.github.io/posts/my-personal-goals-in-2020/</guid>
       <description>&lt;p&gt;這是我第一次設定年度目標，並公開與個人博客中，也是為了提醒和激勵自己。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>我的第一篇Hugo博文</title>
-      <link>http://example.org/posts/my-first-hugo-post/</link>
+      <link>http://dannysunyu.github.io/posts/my-first-hugo-post/</link>
       <pubDate>Wed, 04 Mar 2020 14:30:46 +0800</pubDate>
       
-      <guid>http://example.org/posts/my-first-hugo-post/</guid>
+      <guid>http://dannysunyu.github.io/posts/my-first-hugo-post/</guid>
       <description>&lt;p&gt;2020年設定的一個目標就是建立一個個人博客。這是我的年度計畫之一。&lt;/p&gt;
 &lt;p&gt;為何要建立博客呢。&lt;/p&gt;</description>
     </item>
