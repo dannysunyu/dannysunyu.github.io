@@ -12,13 +12,12 @@
     
     
     <item>
-      <title>Git一些有助益的阅读</title>
+      <title>在IntelliJ IDEA上与Git交互的一些帮助文档</title>
       <link>http://dannysunyu.github.io/posts/git-readings/</link>
       <pubDate>Thu, 04 Jun 2020 11:52:03 +0800</pubDate>
       
       <guid>http://dannysunyu.github.io/posts/git-readings/</guid>
-      <description>IntelliJ IDEA将Git集成进来，理论上，使用图形界面就能够与与Git互动。在工作场所，我有见过工程师依赖Git命令，但是如果可以直接借由IDE处理Git命令，是否会更高级一些？这里放入一篇值得阅读的IntelliJ IDEA官方文档。
-Sync with a remote Git repository</description>
+      <description>&lt;p&gt;IntelliJ IDEA将Git集成进来，理论上，使用图形界面就能够与与Git互动。在工作场所，我有见过工程师依赖Git命令，但是如果可以直接借由IDE处理Git命令，是否会更高级一些？这里放入一篇值得阅读的IntelliJ IDEA官方文档。&lt;/p&gt;</description>
     </item>
     
     <item>
