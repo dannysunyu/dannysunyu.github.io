@@ -1,15 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>孫昱的個人博客</title>
+    <title>昱哥看天下</title>
     <link>http://dannysunyu.github.io/</link>
-    <description>Recent content on 孫昱的個人博客</description>
+    <description>Recent content on 昱哥看天下</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 04 Mar 2020 18:42:03 +0800</lastBuildDate>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 04 Jun 2020 11:52:03 +0800</lastBuildDate>
     
 	<atom:link href="http://dannysunyu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Git一些有助益的阅读</title>
+      <link>http://dannysunyu.github.io/posts/git-readings/</link>
+      <pubDate>Thu, 04 Jun 2020 11:52:03 +0800</pubDate>
+      
+      <guid>http://dannysunyu.github.io/posts/git-readings/</guid>
+      <description>IntelliJ IDEA将Git集成进来，理论上，使用图形界面就能够与与Git互动。在工作场所，我有见过工程师依赖Git命令，但是如果可以直接借由IDE处理Git命令，是否会更高级一些？这里放入一篇值得阅读的IntelliJ IDEA官方文档。
+Sync with a remote Git repository</description>
+    </item>
+    
+    <item>
+      <title>英語語法知識點之雙賓動詞</title>
+      <link>http://dannysunyu.github.io/posts/verbs-with-2-objects/</link>
+      <pubDate>Sat, 14 Mar 2020 12:44:44 +0800</pubDate>
+      
+      <guid>http://dannysunyu.github.io/posts/verbs-with-2-objects/</guid>
+      <description>英语中有些动词可以带两个宾语，这些动词大多具有“给予”的含义。如例句“He lent me a book”中，動詞lent後面帶有表示動作結果的直接賓語（a book）和表示動作目標的間接賓語（me）。間接賓語在大多數情況下置於直接賓語之前，如果間接賓語在後，間接賓語前必須加“to”（表示動作對什麼人而做）或“for”（表示動作為什麼人而做），因此，課文中的句子也可以改寫成：He lent a book to me.
+He lent me a book. -&amp;gt; He lent a book to me. He send me a card. -&amp;gt; He sent a card to me. He passed me the salt. -&amp;gt; He passend the salt to me. She bought me a tie. -&amp;gt; She bought a tie for me. She make me a cake. -&amp;gt; SHe made a cake for me.</description>
+    </item>
     
     <item>
       <title>那些我在关注着的技术公司</title>
